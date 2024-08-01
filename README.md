@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<!--
-**srccc74/srccc74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Java Dev 🛠️ | Game Designer 🌐</h3>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **https://t.me/srccc74**
+- 💻 Currently working on **https://enthusiasm.world**
+
+<hr>
+<h3 align="center" >⭐ My Favorites ⭐</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,gradle,mysql,notion,idea,grafana,figma,git" 
+ </p>
+  <h3 align="center" >🌎 I also use 🌎</h3>
+ <p align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,js,prometheus,bash" 
+ </p>
+
+<hr>
